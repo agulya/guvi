@@ -3,5 +3,5 @@ if (a<0):
   print ("negative")
 elif (a>0):
   print("positive")
-elif (a==0):
+else (a==0):
   print("zero")
